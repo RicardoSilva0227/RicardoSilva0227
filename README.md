@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardosilva0227&label=Profile%20views&color=0e75b6&style=flat" alt="ricardosilva0227" /> </p>
 
-- 🔭 I’m currently working on [Windos Package Manager](https://github.com/RicardoSilva0227/Windows-Package-Manager)
+- 🔭 I’m currently working on [Windows Package Manager](https://github.com/RicardoSilva0227/Windows-Package-Manager) and on [a Mobile Recipe App](https://github.com/RicardoSilva0227/RecipesApp)
 
 - 🌱 I’m currently learning **Angular, C# and SQL**
 
